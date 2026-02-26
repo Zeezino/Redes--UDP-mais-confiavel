@@ -3,6 +3,10 @@ Este projeto foi desenvolvido para a disciplina de Redes de Computadores. O obje
 
 <br>
 
+Vídeo explicativo do trabalho (código, execução e teste): https://drive.google.com/file/d/1SB-TSjk6m_dG-g5oRxpkbsoH1XXHna9T/view?usp=drive_link
+
+<br>
+
 ## 🎯 O Desafio
 A aplicação é um chat que utiliza UDP (protocolo não confiável) como base. Sobre o UDP, construímos camadas que resolvem os problemas clássicos de redes:
 
